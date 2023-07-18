@@ -1,6 +1,7 @@
 # aiproject
+#Flutter-face-recognition-software
+# before run update your devpendensis form pubspec.yaml and run the terminam 'pub get'
 
-A new Flutter project.
 # here i create my own model for face recognition of my department 
 # when you create your owun file please cerate your own model from teacheable machine
 ## Getting Started
